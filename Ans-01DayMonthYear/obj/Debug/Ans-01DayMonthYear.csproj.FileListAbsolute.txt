@@ -1,0 +1,12 @@
+E:\exam\Ans-01DayMonthYear\bin\Debug\Ans-01DayMonthYear.exe.config
+E:\exam\Ans-01DayMonthYear\obj\Debug\Ans-01DayMonthYear.csprojResolveAssemblyReference.cache
+E:\exam\Ans-01DayMonthYear\bin\Debug\Ans-01DayMonthYear.exe
+E:\exam\Ans-01DayMonthYear\bin\Debug\Ans-01DayMonthYear.pdb
+E:\exam\Ans-01DayMonthYear\obj\Debug\Ans-01DayMonthYear.exe
+E:\exam\Ans-01DayMonthYear\obj\Debug\Ans-01DayMonthYear.pdb
+E:\DevExam\Ans-01DayMonthYear\bin\Debug\Ans-01DayMonthYear.exe.config
+E:\DevExam\Ans-01DayMonthYear\bin\Debug\Ans-01DayMonthYear.exe
+E:\DevExam\Ans-01DayMonthYear\bin\Debug\Ans-01DayMonthYear.pdb
+E:\DevExam\Ans-01DayMonthYear\obj\Debug\Ans-01DayMonthYear.csprojResolveAssemblyReference.cache
+E:\DevExam\Ans-01DayMonthYear\obj\Debug\Ans-01DayMonthYear.exe
+E:\DevExam\Ans-01DayMonthYear\obj\Debug\Ans-01DayMonthYear.pdb

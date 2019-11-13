@@ -1,0 +1,6 @@
+E:\exam\AnsNo-02 Reverse\bin\Debug\AnsNo-02 Reverse.exe.config
+E:\exam\AnsNo-02 Reverse\bin\Debug\AnsNo-02 Reverse.exe
+E:\exam\AnsNo-02 Reverse\bin\Debug\AnsNo-02 Reverse.pdb
+E:\exam\AnsNo-02 Reverse\obj\Debug\AnsNo-02 Reverse.csprojResolveAssemblyReference.cache
+E:\exam\AnsNo-02 Reverse\obj\Debug\AnsNo-02 Reverse.exe
+E:\exam\AnsNo-02 Reverse\obj\Debug\AnsNo-02 Reverse.pdb
